@@ -1,0 +1,3 @@
+-- 
+git --set-upstream origin liste
+Setting up a upstream 
